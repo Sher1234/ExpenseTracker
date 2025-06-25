@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_etrack.viewer" name="x_snc_etrack.viewer">0ab5679e3b1a2e10d65ca18aa4e45a02</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>udit.aggarwal</sys_created_by>
+        <sys_created_on>2025-06-25 09:42:46</sys_created_on>
+        <sys_id>50162b9e3b1a2e10d65ca18aa4e45afb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0ab5679e3b1a2e10d65ca18aa4e45a02</sys_name>
+        <sys_package display_value="Expense Tracker" source="x_snc_etrack">9a956f5e3b1a2e10d65ca18aa4e45a67</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Tracker">9a956f5e3b1a2e10d65ca18aa4e45a67</sys_scope>
+        <sys_update_name>sys_embedded_help_role_50162b9e3b1a2e10d65ca18aa4e45afb</sys_update_name>
+        <sys_updated_by>udit.aggarwal</sys_updated_by>
+        <sys_updated_on>2025-06-25 09:42:46</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
