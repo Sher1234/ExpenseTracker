@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_snc_etrack_report" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>x_snc_etrack_report</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>udit.aggarwal</sys_created_by>
+            <sys_created_on>2025-06-25 09:51:25</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="Expense Tracker" source="x_snc_etrack">9a956f5e3b1a2e10d65ca18aa4e45a67</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Expense Tracker">9a956f5e3b1a2e10d65ca18aa4e45a67</sys_scope>
+            <sys_update_name>sys_choice_x_snc_etrack_report_status</sys_update_name>
+            <sys_updated_by>udit.aggarwal</sys_updated_by>
+            <sys_updated_on>2025-06-25 09:51:25</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Draft</label>
+            <language>en</language>
+            <name>x_snc_etrack_report</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>udit.aggarwal</sys_created_by>
+            <sys_created_on>2025-06-25 09:51:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>udit.aggarwal</sys_updated_by>
+            <sys_updated_on>2025-06-25 09:51:25</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Submitted</label>
+            <language>en</language>
+            <name>x_snc_etrack_report</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>udit.aggarwal</sys_created_by>
+            <sys_created_on>2025-06-25 09:51:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>udit.aggarwal</sys_updated_by>
+            <sys_updated_on>2025-06-25 09:51:39</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_snc_etrack_report</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>udit.aggarwal</sys_created_by>
+            <sys_created_on>2025-06-25 09:52:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>udit.aggarwal</sys_updated_by>
+            <sys_updated_on>2025-06-25 09:52:10</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_snc_etrack_report</name>
+            <sequence>400</sequence>
+            <synonyms/>
+            <sys_created_by>udit.aggarwal</sys_created_by>
+            <sys_created_on>2025-06-25 09:52:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>udit.aggarwal</sys_updated_by>
+            <sys_updated_on>2025-06-25 09:52:36</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_snc_etrack_report</name>
+            <sequence>500</sequence>
+            <synonyms/>
+            <sys_created_by>udit.aggarwal</sys_created_by>
+            <sys_created_on>2025-06-25 09:53:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>udit.aggarwal</sys_updated_by>
+            <sys_updated_on>2025-06-25 09:53:07</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
